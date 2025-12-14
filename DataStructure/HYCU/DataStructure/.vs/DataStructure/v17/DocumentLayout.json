@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F70C469E-9D56-45F6-9CFA-80928DF07F0E}|DataStructure\\DataStructure.vcxproj|C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\4_1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F70C469E-9D56-45F6-9CFA-80928DF07F0E}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\4_1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F70C469E-9D56-45F6-9CFA-80928DF07F0E}|DataStructure\\DataStructure.vcxproj|C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F70C469E-9D56-45F6-9CFA-80928DF07F0E}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F70C469E-9D56-45F6-9CFA-80928DF07F0E}|DataStructure\\DataStructure.vcxproj|C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\4_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F70C469E-9D56-45F6-9CFA-80928DF07F0E}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\4_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "4_1.h",
+              "DocumentMoniker": "C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\4_1.h",
+              "RelativeDocumentMoniker": "DataStructure\\4_1.h",
+              "ToolTip": "C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\4_1.h",
+              "RelativeToolTip": "DataStructure\\4_1.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-18T02:59:12.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "4_1.c",
+              "DocumentMoniker": "C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\4_1.c",
+              "RelativeDocumentMoniker": "DataStructure\\4_1.c",
+              "ToolTip": "C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\4_1.c",
+              "RelativeToolTip": "DataStructure\\4_1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-18T02:58:58.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\main.c",
+              "RelativeDocumentMoniker": "DataStructure\\main.c",
+              "ToolTip": "C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\main.c",
+              "RelativeToolTip": "DataStructure\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-17T06:16:50.877Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

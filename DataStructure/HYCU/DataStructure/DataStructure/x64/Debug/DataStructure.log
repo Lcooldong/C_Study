@@ -1,0 +1,4 @@
+﻿  week3.c
+C:\Users\ncool\Github\C_Study\DataStructure\HYCU\DataStructure\DataStructure\week3.c(9,50): warning C4311: '형식 캐스트': 'char [20]'에서 'int'(으)로 포인터가 잘립니다.
+C:\Users\ncool\Github\C_Study\DataStructure\HYCU\DataStructure\DataStructure\week3.c(9,64): warning C4311: '형식 캐스트': 'char *'에서 'int'(으)로 포인터가 잘립니다.
+  DataStructure.vcxproj -> C:\Users\ncool\Github\C_Study\DataStructure\HYCU\DataStructure\x64\Debug\DataStructure.exe
