@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F70C469E-9D56-45F6-9CFA-80928DF07F0E}|DataStructure\\DataStructure.vcxproj|C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\week4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F70C469E-9D56-45F6-9CFA-80928DF07F0E}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\week4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F70C469E-9D56-45F6-9CFA-80928DF07F0E}|DataStructure\\DataStructure.vcxproj|C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\week4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F70C469E-9D56-45F6-9CFA-80928DF07F0E}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\week4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F70C469E-9D56-45F6-9CFA-80928DF07F0E}|DataStructure\\DataStructure.vcxproj|C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\week3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F70C469E-9D56-45F6-9CFA-80928DF07F0E}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\week3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F70C469E-9D56-45F6-9CFA-80928DF07F0E}|DataStructure\\DataStructure.vcxproj|C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\week2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F70C469E-9D56-45F6-9CFA-80928DF07F0E}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\week2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F70C469E-9D56-45F6-9CFA-80928DF07F0E}|DataStructure\\DataStructure.vcxproj|C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\4_1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F70C469E-9D56-45F6-9CFA-80928DF07F0E}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\4_1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F70C469E-9D56-45F6-9CFA-80928DF07F0E}|DataStructure\\DataStructure.vcxproj|C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F70C469E-9D56-45F6-9CFA-80928DF07F0E}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F70C469E-9D56-45F6-9CFA-80928DF07F0E}|DataStructure\\DataStructure.vcxproj|C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\week3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F70C469E-9D56-45F6-9CFA-80928DF07F0E}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\week3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F70C469E-9D56-45F6-9CFA-80928DF07F0E}|DataStructure\\DataStructure.vcxproj|C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\week2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F70C469E-9D56-45F6-9CFA-80928DF07F0E}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\week2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F70C469E-9D56-45F6-9CFA-80928DF07F0E}|DataStructure\\DataStructure.vcxproj|C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\4_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F70C469E-9D56-45F6-9CFA-80928DF07F0E}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\4_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,87 +27,41 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "week4.h",
-              "DocumentMoniker": "C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\week4.h",
-              "RelativeDocumentMoniker": "DataStructure\\week4.h",
-              "ToolTip": "C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\week4.h",
-              "RelativeToolTip": "DataStructure\\week4.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "4_1.h",
+              "DocumentMoniker": "C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\4_1.h",
+              "RelativeDocumentMoniker": "DataStructure\\4_1.h",
+              "ToolTip": "C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\4_1.h",
+              "RelativeToolTip": "DataStructure\\4_1.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-10-18T02:59:12.148Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "week4.c",
-              "DocumentMoniker": "C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\week4.c",
-              "RelativeDocumentMoniker": "DataStructure\\week4.c",
-              "ToolTip": "C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\week4.c",
-              "RelativeToolTip": "DataStructure\\week4.c",
+              "DocumentIndex": 2,
+              "Title": "4_1.c",
+              "DocumentMoniker": "C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\4_1.c",
+              "RelativeDocumentMoniker": "DataStructure\\4_1.c",
+              "ToolTip": "C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\4_1.c",
+              "RelativeToolTip": "DataStructure\\4_1.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-10-18T02:58:58.424Z"
+              "WhenOpened": "2025-10-18T02:58:58.424Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "week3.h",
-              "DocumentMoniker": "C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\week3.h",
-              "RelativeDocumentMoniker": "DataStructure\\week3.h",
-              "ToolTip": "C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\week3.h",
-              "RelativeToolTip": "DataStructure\\week3.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-10-17T12:11:56.626Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "week3.c",
-              "DocumentMoniker": "C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\week3.c",
-              "RelativeDocumentMoniker": "DataStructure\\week3.c",
-              "ToolTip": "C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\week3.c",
-              "RelativeToolTip": "DataStructure\\week3.c",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-10-17T12:11:42.336Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "week2.h",
-              "DocumentMoniker": "C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\week2.h",
-              "RelativeDocumentMoniker": "DataStructure\\week2.h",
-              "ToolTip": "C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\week2.h",
-              "RelativeToolTip": "DataStructure\\week2.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-10-17T06:56:39.732Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "week2.c",
-              "DocumentMoniker": "C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\week2.c",
-              "RelativeDocumentMoniker": "DataStructure\\week2.c",
-              "ToolTip": "C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\week2.c",
-              "RelativeToolTip": "DataStructure\\week2.c",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAYwDUAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-10-17T06:55:12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\main.c",
               "RelativeDocumentMoniker": "DataStructure\\main.c",
               "ToolTip": "C:\\Users\\ncool\\Github\\C_Study\\DataStructure\\HYCU\\DataStructure\\DataStructure\\main.c",
               "RelativeToolTip": "DataStructure\\main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-10-17T06:16:50.877Z"
+              "WhenOpened": "2025-10-17T06:16:50.877Z",
+              "EditorCaption": ""
             }
           ]
         }
