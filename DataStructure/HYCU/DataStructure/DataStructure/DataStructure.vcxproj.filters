@@ -30,7 +30,7 @@
     <ClCompile Include="main.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="4_1.c">
+    <ClCompile Include="4_4.c">
       <Filter>소스 파일\LinkedList</Filter>
     </ClCompile>
     <ClCompile Include="week2.c">
@@ -41,7 +41,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="4_1.h">
+    <ClInclude Include="4_4.h">
       <Filter>헤더 파일\LinkedList</Filter>
     </ClInclude>
     <ClInclude Include="week2.h">
